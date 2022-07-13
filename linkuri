@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Ciocolata</title>
+</head>
+
+<body>
+    <ul>
+        <li><a href="#sectiunea 1">Ciocolata neagra</a></li>
+        <li><a href="#sectiunea 2">Ciocolata alba</a></li>
+    </ul>
+
+    <a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a>
+    <h1 id="sectiunea 1">CIOCOLATA NEAGRA</h1>
+    <p>Ciocolata neagră ar trebui inclusă în orice dietă, iar secretul unui produs de calitate este proncetul cât mai
+        ridicat de cacao din ea. Este încărcată cu substanțe nutritive care au un efect pozitiv asupra sănătății
+        organismului. Fabricat din sămânța arborelui de cacao, este una dintre cele mai bune surse de antioxidanți de pe
+        planetă. Studiile arată că ciocolata neagră poate îmbunătăți sănătatea și reduce riscul bolilor de inimă.
+        Ciocolata provine din cacao, care este o plantă cu un nivel ridicat de minerale și antioxidanți. Ciocolata
+        comercială cu lapte conține unt de cacao, zahăr, lapte și cantități mici de cacao. În schimb, ciocolata neagră
+        are cantități mult mai mari de cacao și mai puțin zahăr decât ciocolata cu lapte.
+        Citeşte întreaga ştire: Ciocolata neagră - proprietăți și beneficii. Ce cantitate ar trebui să consumi zilnic
+    </p>
+    <P>Ciocolata neagra provine din Mexic si America de Sud. Societatile precolombiene – maya si azteca – au folosit
+        bautura de cacao in scopuri ceremoniale si medicinale, precum si ca lux pentru elita. Planta de cacao a fost
+        cultivat timp de cel putin trei milenii.
+
+        In timpul colonizarii, spaniolul Hernando Cortez a recunoscut valoarea bauturilor cu ciocolata neagra si a adus
+        ciocolata in Spania. Multa vreme, reteta bauturii cu ciocolata a fost tinuta sub in secret de regalitatea
+        spaniola. La urma urmei, a ajuns pe piata, dar a fost o placere scumpa pentru populatie. In 1689, jamaicanul
+        Hans Sloan a adaugat lapte in reteta bauturii. Secolul al XIX-lea aduce inovatie in producerea ciocolatei si
+        productie in masa. Bauturile din acest tip de ciocolata s-au indreptat catre ciocolata de consum ieftina si
+        disponibila tuturor.
+
+        Astazi, tarile si marcile au retetele lor specifice. Dupa succesul ciocolatei cu lapte in secolul XX, ciocolata
+        neagra originala isi recupereaza popularitatea datorita gustului, dar si multiplelor beneficii pe care le aduce
+        organismului.</p>
+        <a href="ciocolata neagra.html">Ciocolata neagra</a>
+    <h1 id="sectiunea 2">CIOCOLATA ALBA</h1>
+
+        <a href="ciocolata alba.html"><img src="ciocolata alba.jpg" alt="ciocolata alba"></a>
+
+    <p>Ciocolata albă este un produs făcut din unt de cacao, zahăr și ingrediente lactate și nu conține boabe de cacao.
+
+        Datorită conținutului de cacao ridicat, ciocolata albă este ciocolată adevărată. Singurul ingredient care o
+        diferențiază de ciocolata clasică, sau de cea neagră, este lipsa de masă de cacao.
+
+        Se caracterizează printr-o culoare de fildeș pal. Punctul de topire al untului de cacao este suficient de
+        ridicat
+        pentru a menține ciocolata albă solidă la temperatura camerei. La fel este și în cazul ciocolatei cu lapte și
+        ciocolatei negre.
+    </p>
+    <p>Reglementările europene spun clar ceea ce poate fi comercializat sub denumirea de „ciocolată albă”.
+
+        Începând cu anul 2000 în Uniunea Europeană, ciocolata albă trebuie să conțină cel puțin 20% unt de cacao, 14%
+        solide totale din lapte și 3,5% grăsime din lapte.
+
+        Aceleași standarde se aplică în Statele Unite, începând cu 2004. Condiția suplimentară este ca produsul să
+        includă cel mult 55% zahăr sau alți îndulcitori. Înainte de 2004, firmele americane aveau autorizații de
+        comercializare temporară pentru a vinde ciocolată albă. </p>
+
+        <a href="mailto:exemplu"gmail.com>Trimite email</a>
+
+       <a href="contact.html"><button>Contact</button></a>
+</body>
+
+</html>
