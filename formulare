@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Formulare</title>
+    </head>
+    <body>
+        <fieldset>
+            <legend>Informatii personale</legend>
+        <form action="form-submit-php" method="get">
+            Nume:
+            <input type="text" name="nume"><br>
+            Prenume:<br>
+            <input type="text" name="prenume"><br>
+            Email:<br>
+            <input type="email" name="email" required><br>
+            Send:<br>
+            <input type="submit" value="send"><br>
+        </fieldset>
+        <fieldset>
+            <legend>Alte informatii</legend>
+            Checkbox:<br>
+            Varianta 1:
+            <input type="checkbox" name="check" value="ch1">
+            Varianta 2:
+            <input type="checkbox" name="check" value="ch2"><br>
+            Radio:<br>
+            Varianta 1:
+            <input type="radio" name="radio" value="r1">
+            Varianta 2:
+            <input type="radio" name="radio" value="r2"><br>
+            Parola:<br>
+            <input type="password" name="password"><br>
+            Data:<br>
+            <input type="date" name="data"><br>
+            Timp:<br>
+            <input type="time" name="timp"><br> 
+            Range:<br>
+            <input type="range" name="range" min="1" max="10"><br>
+            <textarea>Scrie mesajul tau aici</textarea>
+        </fieldset>
+        </form>
+    </body>
+
+</html>
