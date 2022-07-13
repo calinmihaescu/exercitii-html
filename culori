@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Culori</title>
+        <body>
+            <p style="background-color:red;">Primul paragraf</p>
+            <p style="color:rgb(0,0,255)">Al doilea paragraf</p>
+            <p style="color:#0000ff">Al treilea paragraf</p>
+            <p style="font-size:24px;">Salut</p>
+            <p style="font-weight:2px;">Salut</p>
+            <p style="font-family:Arial;">Salut</p>
+            <p style="text-align:center;">Salut</p>
+        </body>
+  </head>
+</html>
