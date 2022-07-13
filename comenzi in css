@@ -1,0 +1,32 @@
+h2,h3{
+    background-color: green;
+}
+*{
+    background-color: yellow;
+}
+h2{
+    background-color: red;
+}
+#titlu{
+    text-align: center;
+}
+.para{
+    font-size: 24px;
+}
+.paragraf1{
+    border:2px solid red;
+}
+.p1{
+    text-decoration: none;
+    text-shadow: 3px 3px green;
+}
+.p2{
+    text-decoration: underline;
+    text-shadow: 3px 3px 2px red;
+}
+.p3{
+    text-decoration: overline ;
+}
+.p4{
+    text-decoration: line-through;
+}
