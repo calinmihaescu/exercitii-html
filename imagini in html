@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Imagini</title>
+        <body>
+            <img src="imagini/maxresdefault.jpg" alt="pizza" width="100px" height="'70px">
+            <p>Primul paragraf</p>
+            <p>Al doilea paragraf</p>
+            <a href="https://www.youtube.com/watch?v=b5qLV4-ANUs&ab_channel=OcultRecords">
+            <img src="imagini/smiley.jpg" alt="smiley sefu vostru">
+</a>
+<div style="background-image:url('imagini/smiley.jpg');">
+    hello<br>
+    hello<br>
+    hello<br>
+    hello<br>
+    hello<br>
+    hello<br>
+    hello<br>
+    hello<br>
+
+</div>
+    <p>
+        <img src="imagini/smiley.jpg" alt="smiley" style="float:right">
+        salut
+    </p>
+
+        </body>
+    </head>
+
+</html>
