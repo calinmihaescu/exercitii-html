@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+     </head>
+     <body>
+        <video src="Lectia.mp4" width="400px" height="400px" controls></video>
+     </video>
+     <iframe src="https://ro.wikipedia.org/wiki/Pagina_principal%C4%83" width="400px" height="400px"></iframe>
+     <p>&#128516</p>
+
+     </body>
+</html>
