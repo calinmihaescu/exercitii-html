@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <table>
+            <caption>Lista de persoane</caption>
+            <tr>
+                <th>Nume</th>
+                <th>Prenume</th>
+                <th>Varsta</th>
+            </tr>
+            <td>Alfa</td>
+            <td>Calin</td>
+            <td>15 ani</td>
+            <tr>
+                <td>Beta</td>
+                <td>Sefu</td>
+                <td>20 ani</td>
+            </tr>
+        </table>
+    </body>
+
+</html>
