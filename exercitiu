@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <title>servicii</title>
+</head>
+
+<body>
+    <article>
+        <aside>
+            <blockquote>
+                <article>
+                    <aside>
+                        <div class="aranjare pagina">
+                            <blockquote> Principalele tipuri de ciocolata sunt: ciocolata alba, cu lapte, neagra,
+                                neindulcita si cacao.
+                                In general, acestea se pot fabrica din boabe de cacao obisnuite (ieftine, produse in
+                                masa),
+                                din
+                                specialitati de boabe (aromate si scumpe) sau dintr-o combinatie a acestora. Aroma si
+                                textura ciocolatei
+                                sunt determinate de ingredientele folosite in compozitie, de originea boabelor de cacao,
+                                de
+                                metoda dupa
+                                care sunt prajite acestea si de intregul proces de prelucrare. </blockquote>
+                        </div>
+                    </aside>
+                    <section>
+                        <ol>
+                            <h4>Tipuri de ciocolata</h4>
+                            <li>Ciocolata neagra</li>
+                            <li>Ciocolata alba</li>
+
+                        </ol>
+                        <ul>
+                            <h4>Tipuri de ciocolata</h4>
+                            <li>Ciocolata neagra</li>
+                            <ol class="lista">
+                                <li>Cacao 70%</li>
+                                <li>Cacao 50% </li>
+                            </ol>
+                            <li>Ciocolata alba</li>
+                        </ul>
+                        <dl>
+                            <dt>Ciocolata</dt>
+                            <dd>Ciocolata neagra cotnine mult cacao</dd>
+                        </dl>
+                        <div class="alfa">
+                        <table>
+                            <tr>
+                                <th>Tipuri de ciocolata</th>
+                                <th>Cantities</th>
+                            </tr>
+                            <tr>
+                                <td>Ciocolata alba</td>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <td>Ciocolata neagra</td>
+                                <td>2</td>
+                            </tr>
+                        </table>
+                        </div>
+                        <div class="beta">
+                        <h1>Ciocolata neagra</h1>
+                        </div>
+                        <a
+                            href="https://www.libertatea.ro/lifestyle/ciocolata-neagra-proprietati-beneficii-antioxidanti-3570091">ciocolata
+                            neagra</a>
+                        <div class="sectiunea1">
+                            <p><span class="display">Ciocolata</span> <span class="display">neagra</span></spanneagra> –
+                                contine cel putin 35% praf de cacao i nu are printre ingrediente laptele
+                                praf. Pe
+                                piata sunt nenumarate sortimente de ciocolata, in functie de cantitatea de cacao
+                                folosita.
+                                La fel si în
+                                cazul ciocolatei amarui, care este de mai multe feluri în funcție de cantitatea de zahar
+                                folosita.</p>
+                            <p> Ciocolata neagra conține un mare numar de substante benefice pentru organism, intre care
+                                se
+                                remarcă
+                                antioxidantii – vitaminele, mineralele, flavonoizii și polifenolii – dar și mai multe
+                                substanțe
+                                stimulante.</p>
+                            <p> Antioxidantii actioneaza impotriva radicalilor liberi, substante toxice care sunt
+                                produse la
+                                nivel
+                                celular in fiecare zi, și contribuie la preventia bolilor, în timp ce substantele
+                                stimulante
+                                ajuta la
+                                crearea unei stari generale de bine.</p>
+
+
+                            </figure>
+                    </section>
+                    <section>
+                        <h1>Ciocolata alba</h1>
+                        <a href="https://luado.ro/ciocolata-alba-si-miturile-ei/">Ciocolata alba</a>
+                        <img src="imagini/ciocolata alba.jpg" alt="ciocolata alba" >
+                        <div class="overflow">
+                        <p>Ciocolata alba – este fabricata
+                        din unt de cacao, zahar, lapte și arome, în special vanilie.
+                        Această
+                        specialitate nu este considerata de toata lumea ca fiind ciocolata adevarata, pentru că nu
+                        contine pudră
+                        de cacao. De aici vine si culoarea alba.</p>
+                        <p>Ciocolata alba se realizeaza din unt de cacao (care este alb), lapte si zahar. In cazul
+                            retetei de
+                            ciocolata alba, ingredientul care lipseste cu desavarsire este pudra de cacao. </p>
+                        <p><q>De aici si ideea ca</q>, din punct de vedere tehnic, ciocolata alba sa nu fie considerata
+                            ca fiind
+                            ciocolata. </p>
+                        </div>
+
+                    </section>
+                </article>
+                <!-- <p><cite>Titlu carte</cite> Nume autor </p> <address> Ne gasesti pe: www.google.ro <br> </address> -->
+                <a href="https://www.google.ro/">Google</a>
+                <a href="https://www.wikipedia.org/">Wikipedia</a>
+            </blockquote>
+        </aside>
+    </article>
+</body>
+
+</html>
